@@ -20,21 +20,16 @@ Sales Performance: Shows key sales metrics, including profit, quantity sold, and
 How to Use
 1. Clone the Repository:
 bash
-Copy code
 git clone https://github.com/AmritaKaur-08/POWER-BI-DASHBOARDS.git
 2. Open the Power BI File:
 Navigate to the Call Center, Customer Retention & Sales Analysis Dashboard.pbix file in the repository and open it using Power BI Desktop.
 
 3. Connect Data Sources:
-Ensure your data sources are connected correctly as per the data model in Power BI.
+Ensure your data sources are connected correctly as per the data model in Power BI. The dashboard requires data from:
 
-5. Refresh Data:
+Call Center logs (e.g., call volume, response time, satisfaction scores)
+Sales records (e.g., revenue, profit, quantity sold, discounts)
+Customer retention data (e.g., churn rates, retention efforts)
+4. Refresh Data:
 Click the Refresh button in Power BI Desktop to load the latest data into the dashboard.
 
-Setup & Installation
-Prerequisites
-Power BI Desktop: Install Power BI Desktop from here if you haven't already.
-Data Sources: Ensure that the dashboard is connected to the following data:
-Call Center Data
-Sales Data
-Customer Retention Data
